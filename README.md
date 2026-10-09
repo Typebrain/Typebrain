@@ -1,5 +1,9 @@
 ### Andrés Ochoa
 
+**Convierto ideas en acción**
+
+Diseño de entornos + lenguaje escrito + arte + tecnología
+
 <!--
 **Typebrain/Typebrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
