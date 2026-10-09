@@ -1,6 +1,6 @@
 # Andrés Ochoa
 
-## **Convierto ideas en acción**
+**Convierto ideas en acción**
 
 Diseño de entornos + lenguaje escrito + arte + tecnología
 
